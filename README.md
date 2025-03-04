@@ -8,6 +8,9 @@ O foco principal é o estudo da eficiência das políticas de cache LRU e FIFO p
 
 # Alunos:
 João Bruno Tavares Uchoa
+
 João Vitor Barbosa Moitinho
+
 Matheus Costa Chaves
+
 Marcos Gabriel Zeferino da Silva
